@@ -15,3 +15,8 @@ These instructions will help you get up and running with style using VS Code for
 1. Open "DMFX Arduino.code-workspace" in VS Code "File > Open Workspace..."
 1. Open "settings.json" in the project and configure `arduino.path` as appropriate for your machine.
 1. Open the command palette and choose "Arduino: Select Serial Port" and choose the port that the DMFX is attached to; if you're lucky it will be labeled "Run Jump Labs"
+
+## Build it!
+
+1. Click on the `DMFX_Hello_World.ino` file. Once selected, you should see icons in the top-right corner for "Upload" and "Verify" (compile).
+1. Try "Upload" and it should work!
