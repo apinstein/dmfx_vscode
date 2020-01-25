@@ -1,0 +1,8 @@
+{
+    "sketch": "DMFX_Hello_World.ino",
+    "board": "dreammaker_fx:samd:dreammaker_fx",
+    "configuration": "cache=on,speed=120,opt=small,usbstack=arduino,debug=off",
+    "output": "/tmp/arduino-build",
+    "debugger": "jlink",
+    "port": "/dev/cu.usbmodem143401"
+}
